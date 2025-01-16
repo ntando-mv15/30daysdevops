@@ -14,6 +14,16 @@ The setup_nba_data_lake.py script performs the following actions:
 - Language: Python 3x
 - AWS Services: S3, Glue, Athena, IAM
 
+## **Project Structure**
+```bash
+day03-nba-data-lake/
+├── policies/
+│   ├── IAM_Role                     #IAM Role Policy
+├── src/
+│   ├── .env
+    ├── setup_nba_data_lake.py       # Main Python function code
+├── README.md                        # Project documentation
+```
 
 ## Project Documentation
 
