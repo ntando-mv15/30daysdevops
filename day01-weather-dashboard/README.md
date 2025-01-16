@@ -70,7 +70,10 @@ weather-dashboard/
     python src/weather_dashboard.py
     ```
 
-What I Learned:
+## Project Documentation
+Find Detailed Project Documentation Here: [Weather Data Collection System Medium Article](https://medium.com/@ntando.mv15/a-weather-data-collection-system-with-openweather-api-and-aws-s3-a1fcc90f5e82)
+
+## What I Learned:
 
 - AWS S3 bucket creation and management
 - Environment variable management for secure API keys
