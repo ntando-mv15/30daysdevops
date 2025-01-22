@@ -29,6 +29,19 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
   - requests
 
 ## Project Structure
+
+## **Project Structure**
+```bash
+day01-weather-dashboard//
+├── src/
+│   ├── __init__.py 
+    ├── weather_dashboard.py         # Main Python function code
+├── .gitignore
+├── README.md                        # Project documentation
+└── requirements.txt                 # Project dependencies
+```
+
+
 weather-dashboard/
 ├── src/
 │   ├── init.py
